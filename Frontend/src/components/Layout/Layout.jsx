@@ -1,14 +1,18 @@
+import React from "react";
 
+import Header from "./../Header/Header";
+import Routers from "../../router/Routers";
+import Footer from "./../Footer/Footer";
 
 function Layout() {
-  return (
-    <div>
-      <h1>Laypout</h1>
-    </div>
+  return(
+    <>
+    <Header/>
+    <Routers/>
+    <Footer/>
+    
+    </>
   )
 }
 
-export default Layout
-
-
-
+export default Layout;

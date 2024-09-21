@@ -1,11 +1,7 @@
 // import React from 'react'
 
 function TourDetails() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return <div>TourDetails</div>;
 }
 
 export default TourDetails

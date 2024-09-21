@@ -3,7 +3,7 @@
 function SearchResultList() {
   return (
     <div>
-      
+      Search
     </div>
   )
 }
